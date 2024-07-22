@@ -12,5 +12,9 @@
   "dependencies": {
     "nuxt": "^3.12.4",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "nuxt-primevue": "^3.0.0",
+    "usebootstrap": "^3.5.19"
   }
 }
