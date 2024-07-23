@@ -97,7 +97,7 @@
           triangleElements.forEach(triangle => {
             triangle.style.animationPlayState = 'running';
           });
-        }, 100);
+        });
       });
   
       return {
