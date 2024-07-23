@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   modules: ['nuxt-primevue'],
   css: [
     'bulma/css/bulma.css',
-    'assets/css/main.css'
+    'assets/css/main.css',
+    'assets/css/landing_page.css'
   ]
 })
